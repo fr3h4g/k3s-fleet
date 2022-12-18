@@ -1,0 +1,5 @@
+apiVersion: v2
+name: fr3h4g-web
+description: Website
+version: 0.0.0
+appVersion: 0.0.0
